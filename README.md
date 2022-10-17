@@ -4,6 +4,8 @@ A reading list of academic papers related to BGP security
 ## RPKI
 
 * [Stalloris: RPKI Downgrade Attack - Usenix Security 2022](https://www.usenix.org/system/files/sec22-hlavacek.pdf)
+* [Smart RPKI Validation: Avoiding Errors and Preventing Hijacks - ESORICS 2022](https://dl.acm.org/doi/abs/10.1007/978-3-031-17140-6_25)
+* [ROV++: Improved Deployable Defense against BGP Hijacking](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1A-4_24438_paper.pdf)
 * [DISCO: Sidestepping RPKI’s Deployment Barriers - NDSS 2020](https://par.nsf.gov/servlets/purl/10155040)
 * [RPKI is Coming of Age - IMC 2019](https://dl.acm.org/doi/pdf/10.1145/3355369.3355596)
 
